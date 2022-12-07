@@ -1,5 +1,5 @@
 README
-    
+
     MemoryMergeFind is a package for a Java program that reads two separate JSON/CSV files and merges them into a new
     file. It takes user input as search criteria, searching the merged file for the search word, and finding the data
     sets containing the search word. Through its interactive design, the program allows the user to search multiple
