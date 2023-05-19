@@ -13,3 +13,4 @@ information for each specific search), and the public class MemoryMergeFind. No 
 the program. The program takes the two JSON/CSV files from the InputFiles folder as file inputs and will
 overwrite the file in the OutputFiles folder.
    
+Harrison Huston, 2022
